@@ -1,0 +1,16 @@
+random_id.suffix: Refreshing state... [id=BaqXTQ]
+data.aws_ami.amazon_linux: Reading...
+aws_vpc.main: Refreshing state... [id=vpc-05b0a4f9d6fff390d]
+aws_s3_bucket.warmup: Refreshing state... [id=ishara-terraform-warmup-05aa974d]
+data.aws_ami.amazon_linux: Read complete after 1s [id=ami-051685736c7b35f95]
+aws_internet_gateway.igw: Refreshing state... [id=igw-089da5fe1f7354b1f]
+aws_subnet.public: Refreshing state... [id=subnet-0806182289a2911d7]
+aws_security_group.web: Refreshing state... [id=sg-024fa66ad510bc308]
+aws_route_table.public: Refreshing state... [id=rtb-063b9ed0d4186cf71]
+aws_route_table_association.public_assoc: Refreshing state... [id=rtbassoc-039b4985003707448]
+aws_instance.web: Refreshing state... [id=i-014f9944161d3a819]
+
+No changes. Your infrastructure matches the configuration.
+
+Terraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
